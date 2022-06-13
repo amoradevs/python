@@ -1,0 +1,2 @@
+# python
+Iniciando e apaixonada
